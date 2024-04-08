@@ -21,4 +21,5 @@ For the third model, I imported InceptionV3 from TensorFlow Keras applications. 
 ## Project Conclusion:
 Overall, this project demonstrates the application of machine learning techniques in agricultural contexts, specifically in diagnosing diseases in crop plants. By utilizing transfer learning with pre-trained models like VGG16 and InceptionV3, we significantly improved accuracy while mitigating computational costs. These models hold promise in aiding farmers worldwide in identifying and addressing crop diseases, ultimately contributing to increased food security.
 
-## Dataset Link : https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
+## Dataset Link -
+https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
